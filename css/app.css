@@ -685,3 +685,34 @@ footer .logo {
 .service-list {
     margin-bottom: 5rem !important;
 }
+
+.industrie-box {
+    padding: 1rem;
+    box-shadow: 0 0 20px #a7a5a5;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+    border-left: 7px solid;
+}
+
+.industrie-box h4 {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.industrie-box img {
+    width: 100%;
+}
+
+.industrie-img img {
+    width: 75%;
+    margin: auto;
+    display: block;
+}
+
+.industrie-img {
+    display: flex;
+    margin-bottom: ;
+}
